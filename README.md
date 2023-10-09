@@ -1,5 +1,5 @@
 # Basic-image-Segmentation
-This is the second project that was done as a part of the graduate lab- Introductory Python course. The project explores some basic Image Segmentation Algorithms used in the field of computer vision. All the steps involved are mentioned in the uploaded ipynb file and the summarized version of each algorithms and the results are available in the presentation file.
+This is another project that was done as a part of the graduate lab- Introductory Python course. The project explores some basic Image Segmentation Algorithms used in the field of computer vision. All the steps involved are mentioned in the uploaded ipynb file and the summarized version of each algorithms and the results are available in the presentation file.
 
 ## References
 [1] Zhou, W., Du, X., & Wang, S. (2021). Techniques for Image Segmentation Based on Edge Detection. 2021 IEEE International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology, CEI 2021, 400–403. https://doi.org/10.1109/CEI52496.2021.9574569
